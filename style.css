@@ -393,6 +393,16 @@ btn:hover {
 
 }
 
+.portfolio-box h4 {
+
+    position: absolute;
+    top: 8%;
+    left: 20%;
+    font-size: 3rem;
+    opacity: 50%;
+
+}
+
 .portfolio-layer h4 {
 
     font-size: 3rem;
