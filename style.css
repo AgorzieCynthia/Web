@@ -705,7 +705,7 @@ btn:hover {
         .home-img img {
 
             width: 80vw;
-            height: 80vw;
+            height: 90vw;
             border: 1vw solid #2E5077;
             border-radius: 40vw;
     
@@ -714,7 +714,7 @@ btn:hover {
         .about-img img {
     
             width: 80vw;
-            height: 80vw;
+            height: 90vw;
             border: 1vw solid #213555;
             border-radius: 40vw;
     
@@ -739,7 +739,7 @@ btn:hover {
         .home-img img {
 
             width: 60vw;
-            height: 60vw;
+            height: 70vw;
             border: 1vw solid #2E5077;
             border-radius: 40vw;
     
@@ -748,7 +748,7 @@ btn:hover {
         .about-img img {
     
             width: 60vw;
-            height: 60vw;
+            height: 70vw;
             border: 1vw solid #213555;
             border-radius: 40vw;
     
@@ -763,7 +763,7 @@ btn:hover {
     .home-img img {
 
         width: 80vw;
-        height: 80vw;
+        height: 90vw;
         border: 1vw solid #2E5077;
         border-radius: 40vw;
 
@@ -772,7 +772,7 @@ btn:hover {
     .about-img img {
 
         width: 80vw;
-        height: 80vw;
+        height: 90vw;
         border: 1vw solid #213555;
         border-radius: 40vw;
 
